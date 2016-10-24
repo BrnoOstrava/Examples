@@ -1,0 +1,115 @@
+
+Algoritmus     - postup/návod
+Algoritmizace  - zapsaný postup ( vývojový diagram, scrume, kod, kucháøka-knížka, návod internetu)
+
+Program	       - je v nìjakém programovacím jazyce zapsaný postup (algoritmus)
+Objekt/Instance  si „pamatuje“ svùj stav (v podobì dat èili atributù) a poskytuje rozhraní operací, aby se s ním mohlo pracovat (nazývané metody).
+
+OOP(objektovì orientované programování) døív bylo bylo strukturální -tzn:kod se psal od zaèátku až do konce.
+V èem je oop lepší ? = využívá tøídy, využívá metody hlavní výhoda je v tom že jsi mùžeme vzít nìjakou èást kodu(modifikovat jí tøeba)
+v nezávislosti v ostatních funkcích.
+PØ:Dìláš tetris 1)Nejdøív si udìláš nìjakou plochu ve které urèíš, kde bude hrací panel, ve kterém budou padat kostièky, kde bude panel na score atd...
+		2)Nìkdo udìlá panel a nìkdo jiný uplnì samostatnì bez závislosti na stavu panelu udìlá kostièky.
+
+tøída 		Tøída je nìco abstraktního co nemá žádné údaje, parametry (není to nic konkrétního) nìco obecného.Každá tøída mùže být datovým tipem.
+objekt		objekt == instance
+instance	konkrétní objekt ze tøídy ( co mùžu od neèeho jiného už odlišit )
+
+metoda		Funkce, èinnost kterou mají všechny instance(èinnost = nìco se vykona/udìlá)
+promennná
+konstruktor = speciální pøípad metody obsahuje to každá trída
+instance = objekt
+
+promennná
+konstanta
+static
+void
+datový typ
+int
+Integer
+String
+boolean
+long
+short
+double
+float
+implements
+extends
+for
+if
+else
+switch
+break
+continue
+Thread
+stop
+start
+interrupt
+wait
+metoda
+konstruktor = vytváøí objekt
+
+konstanta
+static
+void
+datový typ
+int
+Integer
+String
+boolean
+long
+short
+double
+float
+implements
+extends
+for
+if
+else
+switch
+break
+continue
+Thread
+stop
+start
+interrupt
+wait
+importkonstruktor
+metoda
+promennná
+konstanta
+static
+void
+datový typ
+int
+Integer
+String
+boolean
+long
+short
+double
+float
+implements
+extends
+for
+if
+else
+switch
+break
+continue
+Thread
+stop
+start
+interrupt
+wait
+import
+parameter
+atribute
+&&
+||
+==
+=
+deklarace
+definice / inicializace / naplnìní
+
+levý alt + lefý shift + F
